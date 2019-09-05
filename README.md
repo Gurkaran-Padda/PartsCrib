@@ -1,2 +1,2 @@
 # PartsCrib
-Gurkaran-Padda.github.io/PartsCrib
+gurkaran-padda.github.io/PartsCrib
